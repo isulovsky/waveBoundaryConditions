@@ -8,3 +8,5 @@ This enables for more diverse CFD multiphase simulations. Boundary conditions fo
  The attached files can simply be copied to the original olaFlow source code and compiled.
 
  olaFlow implementaion can be found here: https://github.com/phicau/olaFlow
+
+If you are using this libraries, please cite the following paper:https://doi.org/10.1016/j.oceaneng.2025.121519
